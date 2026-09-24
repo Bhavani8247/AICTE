@@ -1,0 +1,10 @@
+Column,Meaning,Type
+Order_ID,Unique transaction identifier,Identifier
+Order_Date,Transaction date,Date
+Customer_ID,Customer identifier,Identifier
+Product,Product purchased,Categorical
+Category,Product category,Categorical
+Region,Customer/order region,Categorical
+Quantity,Units purchased,Numerical
+Revenue,Transaction revenue,Numerical
+Profit,Transaction profit,Numerical
