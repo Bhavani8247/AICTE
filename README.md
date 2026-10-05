@@ -1,6 +1,6 @@
 # AI-Assisted E-Commerce Data Analytics & Customer Churn Prediction
 
-**Participant:** Akshith Reddy Kathulapalli  
+**Participant:** BHavani Ponde
 **Internship:** AICTE | IBM SkillsBuild Data Analytics with AI Internship 2026
 
 ## Project Overview
